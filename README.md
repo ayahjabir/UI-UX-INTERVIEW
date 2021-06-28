@@ -11,6 +11,10 @@ Product Detail Page
 
 ![Product detail- 1920 – 1](https://user-images.githubusercontent.com/47626182/123562289-79a7ec80-d7b6-11eb-8576-0100d2dc8f54.jpg)
 
+Wireframes
+
+
+
 
 Color Pallete
 
