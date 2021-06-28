@@ -13,7 +13,10 @@ Product Detail Page
 
 Wireframes
 
+![Homepage-wires 1366px– 1](https://user-images.githubusercontent.com/47626182/123585536-12a52a80-d7ec-11eb-8f24-fc9c77c0f9eb.jpg)
 
+
+![Product Details page -wires- 1366px – 1](https://user-images.githubusercontent.com/47626182/123585556-1933a200-d7ec-11eb-9c37-c36b09f08627.jpg)
 
 
 Color Pallete
